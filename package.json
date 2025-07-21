@@ -1,7 +1,7 @@
 {
   "name": "pareto-fountain-pen",
   "version": "0.1.0",
-  "description": "A TypeScript library for easily generating source code files with proper indentation by transforming an input data structure.",
+  "description": "A TypeScript library for easily generating source code files with proper indentation in the pareto programming style/language",
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
   "module": "./dist/index.js",
@@ -26,6 +26,7 @@
     "validate": "node dist/bin/validate_astn.js"
   },
   "keywords": [
+    "pareto",
     "source code generation",
     "indentation"
   ],
