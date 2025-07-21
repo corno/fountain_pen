@@ -1,5 +1,5 @@
 {
-  "name": "fountain-pen",
+  "name": "pareto-fountain-pen",
   "version": "0.1.0",
   "description": "A TypeScript library for easily generating source code files with proper indentation by transforming an input data structure.",
   "main": "./dist/index.js",
