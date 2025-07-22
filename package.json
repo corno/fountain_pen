@@ -5,12 +5,6 @@
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
   "module": "./dist/index.js",
-  "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "default": "./dist/index.js"
-    }
-  },
   "bin": {},
   "files": [
     "dist",
